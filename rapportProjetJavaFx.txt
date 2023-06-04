@@ -1,0 +1,10 @@
+Présenté par SALHI Amal et MESBAH Ibtissame;
+
+Ce rapport présente le projet JavaFX d'inscription des étudiants, qui vise à développer une application conviviale pour faciliter le processus d'inscription des étudiants dans un établissement scolaire.
+Ce projet a été developpé en s'appuyant sur la methode procédurale. On a utilisé l'architecture MVC pour developper l'interface graphique. En revanche, nous avons divisé notre projet en 3 entité distinctes:
+Modèle: cette partie contient le modèle bean qui est la classe etudiant.
+View: cette partie contient les elements graphiques qui constitue le graphe de scene.
+Controller: cette partie permet de gérer les évènements produits par l'utilisateur, et sert à un intermédiaire entre le modèle et view.
+Ce projet nous a permet de mettre en pratique les connaissances acquises lors des différentes séances et Labs du module , y compris le concept de connexion avec la base de données, la navigation entre les scènes, les tableViews,...etc
+Concernant le projet, il vise à faciliter la tache d'insciption des étudiants, modifier le profil de l'etudiant,  supprimer l'étudiant . 
+
