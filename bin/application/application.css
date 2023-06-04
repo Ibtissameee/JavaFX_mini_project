@@ -1,0 +1,36 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.root {
+    -fx-background-color: #dff7f3;
+    -fx-font-family: "Arial";
+}
+
+/* Style the grid */
+.grid {
+    -fx-background-color: #dff7f3;
+}
+
+/* Style the labels */
+.label {
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+}
+
+/* Style the text fields */
+.text-field {
+    -fx-background-color: #FFF;
+    -fx-font-size: 14px;
+}
+
+/* Style the buttons */
+.button {
+    -fx-background-color: #bae0da;
+    -fx-font-weight: bold;
+    -fx-text-fill: #333;
+    -fx-border-radius: 25px;
+}
+.button:hover{
+	-fx-background-color:#80d1cc;
+}
+.table-view .column-header {
+    -fx-background-color: #80d1cc;
+}
